@@ -4,7 +4,7 @@
 The Multiskill Intellectual Analyser is a Python-based quiz game designed to test and enhance your intellectual skills across various subjects. The game features multiple-choice questions and provides instant feedback to help users improve their knowledge.
 
 ## Features
-- Multiple-choice questions
+- Multiple-choice questions.
 - Instant feedback on answers
 - Score tracking
 - Multiple categories and difficulty levels
